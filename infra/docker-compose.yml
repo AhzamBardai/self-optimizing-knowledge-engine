@@ -44,7 +44,7 @@ services:
     ports:
       - "9090:9090"
     volumes:
-      - ./grafana/provisioning/datasources/prometheus.yml:/etc/prometheus/prometheus.yml
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
 
   grafana:
     image: grafana/grafana:10.4.2
