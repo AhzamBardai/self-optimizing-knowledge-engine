@@ -1,0 +1,1274 @@
+[
+  {
+    "id": "gold_000",
+    "question": "What was Apple's total net sales revenue in their most recent 10-K fiscal year?",
+    "answer": "[Answer requires EDGAR filing data for AAPL. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "gold_001",
+    "question": "What was Apple's net income in their most recent fiscal year?",
+    "answer": "[Answer requires EDGAR filing data for AAPL. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "gold_002",
+    "question": "What was Apple's earnings per diluted share in the most recent fiscal year?",
+    "answer": "[Answer requires EDGAR filing data for AAPL. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "gold_003",
+    "question": "What was Apple's gross margin percentage in the most recent fiscal year?",
+    "answer": "[Answer requires EDGAR filing data for AAPL. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "gold_004",
+    "question": "What were Apple's research and development expenses?",
+    "answer": "[Answer requires EDGAR filing data for AAPL. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "gold_005",
+    "question": "What percentage of Apple's revenue came from iPhone sales?",
+    "answer": "[Answer requires EDGAR filing data for AAPL. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "gold_006",
+    "question": "What was Apple's Services segment revenue?",
+    "answer": "[Answer requires EDGAR filing data for AAPL. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "gold_007",
+    "question": "How much did Apple return to shareholders through buybacks and dividends?",
+    "answer": "[Answer requires EDGAR filing data for AAPL. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "gold_008",
+    "question": "What was Microsoft's total revenue in their most recent fiscal year?",
+    "answer": "[Answer requires EDGAR filing data for MSFT. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "id": "gold_009",
+    "question": "What was Microsoft's Azure cloud revenue growth rate?",
+    "answer": "[Answer requires EDGAR filing data for MSFT. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "id": "gold_010",
+    "question": "What was Microsoft's operating income in the most recent fiscal year?",
+    "answer": "[Answer requires EDGAR filing data for MSFT. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "id": "gold_011",
+    "question": "What was Microsoft's net income?",
+    "answer": "[Answer requires EDGAR filing data for MSFT. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "id": "gold_012",
+    "question": "What were Microsoft's capital expenditures?",
+    "answer": "[Answer requires EDGAR filing data for MSFT. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "id": "gold_013",
+    "question": "What was Microsoft's Intelligent Cloud segment revenue?",
+    "answer": "[Answer requires EDGAR filing data for MSFT. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "id": "gold_014",
+    "question": "What was Microsoft's More Personal Computing segment revenue?",
+    "answer": "[Answer requires EDGAR filing data for MSFT. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "id": "gold_015",
+    "question": "What was Microsoft's Productivity and Business Processes segment revenue?",
+    "answer": "[Answer requires EDGAR filing data for MSFT. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "id": "gold_016",
+    "question": "What was Amazon's total net sales in the most recent fiscal year?",
+    "answer": "[Answer requires EDGAR filing data for AMZN. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "AMZN"
+    ]
+  },
+  {
+    "id": "gold_017",
+    "question": "What was Amazon Web Services revenue?",
+    "answer": "[Answer requires EDGAR filing data for AMZN. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "AMZN"
+    ]
+  },
+  {
+    "id": "gold_018",
+    "question": "What was Amazon's operating income?",
+    "answer": "[Answer requires EDGAR filing data for AMZN. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "AMZN"
+    ]
+  },
+  {
+    "id": "gold_019",
+    "question": "What was Amazon's North America segment revenue?",
+    "answer": "[Answer requires EDGAR filing data for AMZN. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "AMZN"
+    ]
+  },
+  {
+    "id": "gold_020",
+    "question": "What was Amazon's International segment operating income or loss?",
+    "answer": "[Answer requires EDGAR filing data for AMZN. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "AMZN"
+    ]
+  },
+  {
+    "id": "gold_021",
+    "question": "What was Amazon's net income?",
+    "answer": "[Answer requires EDGAR filing data for AMZN. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "AMZN"
+    ]
+  },
+  {
+    "id": "gold_022",
+    "question": "What was Amazon's free cash flow?",
+    "answer": "[Answer requires EDGAR filing data for AMZN. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "AMZN"
+    ]
+  },
+  {
+    "id": "gold_023",
+    "question": "What percentage of total revenue did AWS represent?",
+    "answer": "[Answer requires EDGAR filing data for AMZN. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "AMZN"
+    ]
+  },
+  {
+    "id": "gold_024",
+    "question": "What was Alphabet's total revenue in the most recent fiscal year?",
+    "answer": "[Answer requires EDGAR filing data for GOOGL. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "GOOGL"
+    ]
+  },
+  {
+    "id": "gold_025",
+    "question": "What was Google Search advertising revenue?",
+    "answer": "[Answer requires EDGAR filing data for GOOGL. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "GOOGL"
+    ]
+  },
+  {
+    "id": "gold_026",
+    "question": "What was Google Cloud revenue?",
+    "answer": "[Answer requires EDGAR filing data for GOOGL. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "GOOGL"
+    ]
+  },
+  {
+    "id": "gold_027",
+    "question": "What was Alphabet's net income?",
+    "answer": "[Answer requires EDGAR filing data for GOOGL. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "GOOGL"
+    ]
+  },
+  {
+    "id": "gold_028",
+    "question": "What was YouTube advertising revenue?",
+    "answer": "[Answer requires EDGAR filing data for GOOGL. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "GOOGL"
+    ]
+  },
+  {
+    "id": "gold_029",
+    "question": "What was Alphabet's operating margin?",
+    "answer": "[Answer requires EDGAR filing data for GOOGL. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "GOOGL"
+    ]
+  },
+  {
+    "id": "gold_030",
+    "question": "What was Alphabet's headcount at fiscal year end?",
+    "answer": "[Answer requires EDGAR filing data for GOOGL. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "GOOGL"
+    ]
+  },
+  {
+    "id": "gold_031",
+    "question": "What were Alphabet's capital expenditures?",
+    "answer": "[Answer requires EDGAR filing data for GOOGL. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "GOOGL"
+    ]
+  },
+  {
+    "id": "gold_032",
+    "question": "What was Meta's total revenue in the most recent fiscal year?",
+    "answer": "[Answer requires EDGAR filing data for META. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "META"
+    ]
+  },
+  {
+    "id": "gold_033",
+    "question": "What was Meta's advertising revenue?",
+    "answer": "[Answer requires EDGAR filing data for META. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "META"
+    ]
+  },
+  {
+    "id": "gold_034",
+    "question": "What was Meta's net income?",
+    "answer": "[Answer requires EDGAR filing data for META. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "META"
+    ]
+  },
+  {
+    "id": "gold_035",
+    "question": "What was Meta's operating margin?",
+    "answer": "[Answer requires EDGAR filing data for META. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "META"
+    ]
+  },
+  {
+    "id": "gold_036",
+    "question": "What was Meta's Reality Labs operating loss?",
+    "answer": "[Answer requires EDGAR filing data for META. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "META"
+    ]
+  },
+  {
+    "id": "gold_037",
+    "question": "How many daily active users did Meta's Family of Apps have?",
+    "answer": "[Answer requires EDGAR filing data for META. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "META"
+    ]
+  },
+  {
+    "id": "gold_038",
+    "question": "What was Meta's free cash flow?",
+    "answer": "[Answer requires EDGAR filing data for META. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "META"
+    ]
+  },
+  {
+    "id": "gold_039",
+    "question": "What were Meta's research and development expenses?",
+    "answer": "[Answer requires EDGAR filing data for META. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": [
+      "META"
+    ]
+  },
+  {
+    "id": "gold_040",
+    "question": "Which of the five companies (AAPL, MSFT, AMZN, GOOGL, META) had the highest YoY revenue growth in their most recent 10-K? Show the calculation.",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 4,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_041",
+    "question": "What was Apple's compound annual growth rate (CAGR) for net income over the last two reported fiscal years?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "gold_042",
+    "question": "How did Microsoft's Azure revenue growth compare to its overall company revenue growth rate?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 3,
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "id": "gold_043",
+    "question": "What percentage of Amazon's total net sales did AWS account for, and how did this ratio change year-over-year?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 3,
+    "tickers": [
+      "AMZN"
+    ]
+  },
+  {
+    "id": "gold_044",
+    "question": "Calculate the ratio of Meta's Reality Labs losses to its total advertising revenue. What does this imply for profitability?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 4,
+    "tickers": [
+      "META"
+    ]
+  },
+  {
+    "id": "gold_045",
+    "question": "Which company had the highest R&D expense as a percentage of revenue among AAPL, MSFT, GOOGL? Show the calculation for each.",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 4,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "GOOGL"
+    ]
+  },
+  {
+    "id": "gold_046",
+    "question": "What was Alphabet's effective tax rate, and how does it compare to Microsoft's effective tax rate?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 3,
+    "tickers": [
+      "GOOGL",
+      "MSFT"
+    ]
+  },
+  {
+    "id": "gold_047",
+    "question": "For Amazon, what is the ratio of AWS operating income to Amazon North America operating income?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 3,
+    "tickers": [
+      "AMZN"
+    ]
+  },
+  {
+    "id": "gold_048",
+    "question": "If Apple maintains its current gross margin percentage, how much gross profit would it generate at $400 billion in revenue?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "gold_049",
+    "question": "Which two of the five companies had the smallest gap between gross margin and operating margin?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 5,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_050",
+    "question": "What is the combined cloud revenue of Microsoft Azure, Amazon AWS, and Google Cloud? Which is largest?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 3,
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "GOOGL"
+    ]
+  },
+  {
+    "id": "gold_051",
+    "question": "Calculate the total shareholder returns (buybacks + dividends) for all five companies combined.",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 4,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_052",
+    "question": "What is Apple's revenue per employee compared to Microsoft's revenue per employee?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT"
+    ]
+  },
+  {
+    "id": "gold_053",
+    "question": "How much did Meta reduce its headcount relative to revenue growth between the two most recent fiscal years?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 4,
+    "tickers": [
+      "META"
+    ]
+  },
+  {
+    "id": "gold_054",
+    "question": "Among AMZN, GOOGL, and META, which had the highest operating leverage (operating income growth vs revenue growth)?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 5,
+    "tickers": [
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_055",
+    "question": "What is the ratio of capex to revenue for each of the five companies? Which is the most capital-intensive?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 4,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_056",
+    "question": "If Amazon's AWS segment grew at its current rate, when would it reach $150 billion in annual revenue?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 3,
+    "tickers": [
+      "AMZN"
+    ]
+  },
+  {
+    "id": "gold_057",
+    "question": "Compare Apple's iPhone revenue decline to Google's YouTube revenue growth in the same period.",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 4,
+    "tickers": [
+      "AAPL",
+      "GOOGL"
+    ]
+  },
+  {
+    "id": "gold_058",
+    "question": "What percentage of Alphabet's total revenue comes from advertising, and how has this percentage changed year-over-year?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 3,
+    "tickers": [
+      "GOOGL"
+    ]
+  },
+  {
+    "id": "gold_059",
+    "question": "Calculate the total net income for all five companies combined. Which company contributed the largest share?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 4,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_060",
+    "question": "How does Meta's cost per daily active user compare to Alphabet's implied cost per search user?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 5,
+    "tickers": [
+      "META",
+      "GOOGL"
+    ]
+  },
+  {
+    "id": "gold_061",
+    "question": "What is the combined R&D investment of all five companies? How does this compare to Apple's total revenue?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_062",
+    "question": "Microsoft's gaming revenue (Xbox) plus Apple's Wearables revenue: which is larger and by how much?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 3,
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ]
+  },
+  {
+    "id": "gold_063",
+    "question": "Which risk factor appeared in the most 10-K filings across the five companies?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 4,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_064",
+    "question": "If Meta eliminated all Reality Labs losses, what would its effective net income be as a percentage of revenue?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 3,
+    "tickers": [
+      "META"
+    ]
+  },
+  {
+    "id": "gold_065",
+    "question": "Which company had the best free cash flow conversion rate (FCF / net income)?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 4,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_066",
+    "question": "How does Amazon's operating margin in AWS compare to Microsoft's operating margin in Intelligent Cloud?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 4,
+    "tickers": [
+      "AMZN",
+      "MSFT"
+    ]
+  },
+  {
+    "id": "gold_067",
+    "question": "What would Apple's total revenue be if Services grew 20% and Products stayed flat?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "gold_068",
+    "question": "Compare the percentage of revenue reinvested (R&D + capex) across all five companies.",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 5,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_069",
+    "question": "Which company had the highest EPS growth rate between the two most recent fiscal years?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "multi_hop",
+    "difficulty": 4,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_070",
+    "question": "Compare Amazon and Microsoft's cloud revenue segments. Which is growing faster?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_071",
+    "question": "How do Apple and Microsoft's gross margins compare, and what drives the difference?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_072",
+    "question": "Compare the operating margins of all five companies. Which is most efficient?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_073",
+    "question": "How does Google's advertising revenue compare to Meta's advertising revenue?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_074",
+    "question": "Compare Amazon's e-commerce vs. AWS revenue split to Microsoft's commercial cloud vs. other revenue split.",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_075",
+    "question": "Which of the five companies has the highest net income margin? Show the calculation.",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_076",
+    "question": "Compare the risk factors disclosed by Apple and Microsoft around AI competition.",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_077",
+    "question": "How do the capital allocation strategies (buybacks vs. dividends vs. capex) differ across the five companies?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_078",
+    "question": "Compare Apple's international vs. domestic revenue split to Google's.",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_079",
+    "question": "Which company has the most diversified revenue stream? Justify with segment data.",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_080",
+    "question": "How does Meta's advertising ARPU compare to Alphabet's ARPU?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_081",
+    "question": "Compare employee count and revenue-per-employee across all five companies.",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_082",
+    "question": "Which company had the largest absolute increase in operating income year-over-year?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_083",
+    "question": "How do the tax rates of Amazon and Apple compare? What factors explain the difference?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_084",
+    "question": "Compare the debt levels (long-term debt) of Microsoft and Apple as a percentage of revenue.",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_085",
+    "question": "Which company has the strongest cash position relative to its market operations?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_086",
+    "question": "Compare the geographic revenue concentration (US vs. International) for Apple vs. Meta.",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_087",
+    "question": "How do Microsoft and Google's cloud growth rates compare for their most recent fiscal year?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_088",
+    "question": "Which company has the highest sales and marketing expense as a percentage of revenue?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_089",
+    "question": "Compare the earnings per share growth of Apple, Microsoft, and Alphabet over the reported periods.",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_090",
+    "question": "How does Amazon's logistics and fulfillment cost structure compare to Meta's infrastructure costs?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_091",
+    "question": "Which company has the most aggressive share buyback program relative to market cap?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_092",
+    "question": "Compare the gross profit per employee for Apple vs. Microsoft.",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_093",
+    "question": "How do the operating expense structures of Google and Meta compare as percentages of revenue?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_094",
+    "question": "Which company's risk factors most prominently feature regulatory/antitrust concerns?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_095",
+    "question": "Compare the growth rates of Microsoft Teams vs. the overall Productivity segment.",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_096",
+    "question": "How does Apple's hardware gross margin compare to its services gross margin?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_097",
+    "question": "Compare Amazon's AWS operating margin to Google Cloud's operating margin.",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_098",
+    "question": "Which of the five companies mentions AI most prominently in their risk factors and business overview?",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  },
+  {
+    "id": "gold_099",
+    "question": "Compare the sustainability and ESG commitments disclosed across all five 10-K filings.",
+    "answer": "[Answer requires EDGAR filing data. Run after ingestion.]",
+    "supporting_chunks": [],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META"
+    ]
+  }
+]

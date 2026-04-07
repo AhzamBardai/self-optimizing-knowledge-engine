@@ -1,0 +1,47 @@
+[
+  {
+    "id": "gold_000",
+    "question": "What was Apple's total net sales revenue in fiscal year 2023?",
+    "answer": "Apple reported total net sales of $383.3 billion for fiscal year 2023, representing a 3% decrease compared to fiscal year 2022.",
+    "supporting_chunks": ["aapl_mda_fixed_0001", "aapl_mda_fixed_0002"],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": ["AAPL"]
+  },
+  {
+    "id": "gold_001",
+    "question": "What was Microsoft's Azure cloud revenue growth rate?",
+    "answer": "Microsoft Azure and other cloud services grew 28% year-over-year in constant currency.",
+    "supporting_chunks": ["msft_mda_fixed_0001"],
+    "question_type": "simple",
+    "difficulty": 2,
+    "tickers": ["MSFT"]
+  },
+  {
+    "id": "gold_040",
+    "question": "Which of the five companies had the highest YoY revenue growth in their most recent 10-K?",
+    "answer": "Based on the most recent 10-K filings, Meta had the highest year-over-year revenue growth among the five companies.",
+    "supporting_chunks": ["meta_mda_fixed_0001", "aapl_mda_fixed_0001", "msft_mda_fixed_0001"],
+    "question_type": "multi_hop",
+    "difficulty": 4,
+    "tickers": ["AAPL", "MSFT", "AMZN", "GOOGL", "META"]
+  },
+  {
+    "id": "gold_070",
+    "question": "Compare Amazon and Microsoft's cloud revenue segments. Which is growing faster?",
+    "answer": "Amazon AWS generated $90.8 billion in 2023 (13% growth) while Microsoft Azure grew 28% year-over-year. Microsoft Azure is growing faster on a percentage basis, though AWS has a larger absolute revenue base.",
+    "supporting_chunks": ["amzn_mda_fixed_0001", "msft_mda_fixed_0001"],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": ["AMZN", "MSFT"]
+  },
+  {
+    "id": "gold_071",
+    "question": "How do Apple and Microsoft's gross margins compare?",
+    "answer": "Apple reported a gross margin of 44.1% for fiscal year 2023. Microsoft's gross margin was approximately 69% for fiscal year 2023, reflecting its higher mix of software and cloud services versus Apple's hardware-heavy product mix.",
+    "supporting_chunks": ["aapl_mda_fixed_0002", "msft_mda_fixed_0002"],
+    "question_type": "comparative",
+    "difficulty": 3,
+    "tickers": ["AAPL", "MSFT"]
+  }
+]
