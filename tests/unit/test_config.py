@@ -23,6 +23,9 @@ def test_env_override() -> None:
         assert s.enable_gpu_ops is True
 
 
-def test_get_settings_returns_settings() -> None:
-    s = get_settings()
-    assert isinstance(s, Settings)
+def test_get_settings_is_cached() -> None:
+    from knowledge_engine.config import get_settings
+    get_settings.cache_clear()
+    s1 = get_settings()
+    s2 = get_settings()
+    assert s1 is s2

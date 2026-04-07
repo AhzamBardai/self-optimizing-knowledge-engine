@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import os
+from functools import lru_cache
 from typing import Literal
 
 import structlog
@@ -29,12 +30,12 @@ class Settings(BaseSettings):
     postgres_port: int = 5432
     postgres_db: str = "edgar"
     postgres_user: str = "edgar"
-    postgres_password: str = "edgar"
+    postgres_password: str = Field(default="", description="PostgreSQL password")
 
     # vLLM
     vllm_base_url: str = "http://localhost:8000"
     vllm_model: str = "meta-llama/Llama-3.1-8B-Instruct"
-    enable_gpu_ops: bool = Field(default=False, alias="ENABLE_GPU_OPS")
+    enable_gpu_ops: bool = False
 
     # LangSmith
     langsmith_api_key: str = Field(default="", description="LangSmith API key")
@@ -70,13 +71,18 @@ class Settings(BaseSettings):
     results_baseline_path: str = "results/baseline_metrics.json"
 
 
+@lru_cache(maxsize=1)
 def get_settings() -> Settings:
-    """Return singleton Settings instance."""
+    """Return cached Settings instance (constructed once per process)."""
     return Settings()
 
 
 def configure_logging() -> None:
     """Configure structlog for JSON output with service context."""
+    import logging as stdlib_logging
+    raw_level = os.environ.get("LOG_LEVEL", "INFO").upper()
+    log_level = getattr(stdlib_logging, raw_level, stdlib_logging.INFO)
+
     structlog.configure(
         processors=[
             structlog.contextvars.merge_contextvars,
@@ -84,14 +90,7 @@ def configure_logging() -> None:
             structlog.processors.TimeStamper(fmt="iso"),
             structlog.processors.JSONRenderer(),
         ],
-        wrapper_class=structlog.make_filtering_bound_logger(
-            int(os.environ.get("LOG_LEVEL", "20"))
-        ),
+        wrapper_class=structlog.make_filtering_bound_logger(log_level),
         context_class=dict,
         logger_factory=structlog.PrintLoggerFactory(),
     )
-
-
-# Call at import time so all modules get structured logging
-configure_logging()
-log = structlog.get_logger()
