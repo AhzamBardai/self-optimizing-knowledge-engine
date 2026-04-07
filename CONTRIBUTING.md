@@ -5,7 +5,7 @@
 ```bash
 python -m venv .venv
 source .venv/bin/activate
-pip install -e ".[dev]"
+pip install -e ".[dev,eval,api,braintrust]"
 pre-commit install
 ```
 
@@ -14,7 +14,8 @@ pre-commit install
 ```bash
 make test        # unit tests
 make test-int    # integration tests (requires docker-compose up)
-make lint        # ruff + mypy
+make lint        # ruff lint and format check
+make type        # mypy strict type checking
 make eval        # RAGAS evaluation on gold dataset
 ```
 

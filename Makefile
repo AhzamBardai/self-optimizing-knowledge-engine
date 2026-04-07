@@ -4,7 +4,7 @@ help:
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "%-20s %s\n", $$1, $$2}'
 
 install: ## Install all dependencies
-	pip install -e ".[dev,braintrust]"
+	pip install -e ".[dev,eval,api,braintrust]"
 	pre-commit install
 
 up: ## Start docker-compose services

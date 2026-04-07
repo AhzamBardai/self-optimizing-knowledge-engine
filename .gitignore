@@ -11,11 +11,13 @@ dist/
 .ruff_cache/
 .coverage
 htmlcov/
-results/*.jsonl
+results/
+!results/*.md
 data/raw/
 data/filings/
 *.safetensors
 *.bin
 checkpoints/
 wandb/
+build/
 .DS_Store
